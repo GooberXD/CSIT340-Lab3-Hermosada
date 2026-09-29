@@ -9,7 +9,7 @@ function ExperienceSection() {
         <TimelineItem
           period="2024 – Present"
           title="BS Information Technology Student"
-          place="Coursework and personal projects"
+          place="Cebu Institute of Technology - University"
           description="Learning frontend development, component design, and practical web development workflows."
         />
         <TimelineItem
