@@ -12,8 +12,6 @@ function SkillsSection() {
             <SkillTag name="HTML" />
             <SkillTag name="CSS" />
             <SkillTag name="JavaScript" />
-            <SkillTag name="C" />
-            <SkillTag name="Java" />
             <SkillTag name="Python" />
           </div>
         </div>
